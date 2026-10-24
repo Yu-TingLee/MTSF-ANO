@@ -1,0 +1,9 @@
+This package vendors the LTSF-Linear "Linear" model.
+
+Upstream: Are Transformers Effective for Time Series Forecasting?
+          Ailing Zeng, Muxi Chen, Lei Zhang, Qiang Xu, AAAI 2023
+          https://github.com/cure-lab/LTSF-Linear
+
+
+The upstream LTSF-Linear project is distributed under the Apache License 2.0; see
+https://github.com/cure-lab/LTSF-Linear/blob/main/LICENSE for the full text.

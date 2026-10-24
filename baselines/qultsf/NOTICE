@@ -1,0 +1,6 @@
+This package vendors the QuLTSF model.
+
+Upstream: QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning
+          Hari Hara Suthan Chittoor, Paul Robert Griffin, Ariel Neufeld,
+          Jayne Thompson, Mile Gu, arXiv:2412.13769 (2025)
+          https://arxiv.org/abs/2412.13769
